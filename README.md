@@ -13,6 +13,8 @@ Desarrollar un script en Python que implemente un modelo de Regresión Lineal ut
 
 !["Predicciones"](./img/predictions.png)
 
+- Es menester mencionar que el entrenamiento se realizó con 5000 épocas.
+
 ## Como probar el proyecto
 
 1. Instalar dependencias
